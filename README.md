@@ -25,7 +25,7 @@ Some Requirements:
  - The needle is used here to specify whether the reuqest succeeded for the credentials or not, but how??
  - On the script there is a conditional statement to check, if there is at least one character from the needle found on the response then the request has succeeded.
  - Note that we are assuming to know what's inside the Welcome page, or whatever after logging in
- - Another mechanism to use the error code to check if the request
+ - Another mechanism to use the error code to check if the request or the response size might be different
 
 
 ![image](https://github.com/AwsGhanem/Login-Form-Brute-Force-Py/assets/123994471/0f3f1ea1-12e1-43fb-8d91-20ef765ebf12)
