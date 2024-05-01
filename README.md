@@ -27,5 +27,6 @@ Some Requirements:
  - Note that we are assuming to know what's inside the Welcome page, or whatever after logging in
  - Another mechanism to use the error code to check if the request or the response size might be different
 
+![image](https://github.com/AwsGhanem/Login-Form-Brute-Force-Py/assets/123994471/d3d00ee7-bd22-4b2c-9290-e6458c7ec69e)
 
-![image](https://github.com/AwsGhanem/Login-Form-Brute-Force-Py/assets/123994471/0f3f1ea1-12e1-43fb-8d91-20ef765ebf12)
+
