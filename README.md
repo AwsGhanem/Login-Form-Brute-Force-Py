@@ -15,7 +15,7 @@ Some Requirements:
 **Don't forget to install the requests module `pip install requests`.**
 
 Needle:
-> The needle is used here to specify whether the reuqest succeded for the credentials or not, but how??
+ The needle is used here to specify whether the reuqest succeded for the credentials or not, but how??
  On the script there is a conditional statement to check, if there is at least one character from the needle found on the response then the request has succeded.
  Note that we are assuming to know what's inside the Welcome page, or whatever after logging in
  Another mechanism to use the error code to check if the request
