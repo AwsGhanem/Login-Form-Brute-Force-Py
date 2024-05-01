@@ -1,6 +1,6 @@
 # Login-Form-Brute-Force-Py
 
-## This is a Login form Brute Forcing using a Python Script.
+## This is a Login form Brute Forcer using a Python Script.
 
 ***The script Enumerates through specific number of usernames and a list of potential passwords***
 
