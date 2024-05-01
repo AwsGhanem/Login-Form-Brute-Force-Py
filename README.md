@@ -7,8 +7,8 @@
 
 Some Requirements:
 ```
-Website to test on (I used a local Web Server)
-List of passwords
+1) Website | Webserver 
+2) List of passwords
 ```
 
 
